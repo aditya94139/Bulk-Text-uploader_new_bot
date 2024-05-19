@@ -25,4 +25,4 @@ If you face any errors, please DM me on Telegram.
 - /cancel: Cancel ongoing processes.
 - /restart: ⚠️ Only for Admins.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUHAIB-RASHID-DAR/Bulk-Text-uploader/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/mohitbooraget/Bulk-Text-uploader_new_bot)
